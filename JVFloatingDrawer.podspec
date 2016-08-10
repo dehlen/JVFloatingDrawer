@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
                         "http://jvillella.github.io/JVFloatingDrawer/Screenshots/animated-drawer-open-portrait.gif"]
   s.license          = 'MIT'
   s.author           = { "JVillella" => "julian.villella@hotmail.com" }
-  s.source           = { :git => "https://github.com/JVillella/JVFloatingDrawer.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/dehlen/JVFloatingDrawer.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
